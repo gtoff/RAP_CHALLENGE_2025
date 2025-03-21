@@ -29,6 +29,7 @@ Hints and simplifying assumptions:
 * You are allowed to use anything you find online, including AI for code generation. You should however be able to explain the code and the functioning of your project upon review;
 * You have **complete freedom** in the implementation, including adding **extra functionality** / complexity (e.g., using TTS to interact with the robot, using a different technology to interact with the LLM [e.g., https://github.com/RobotecAI/rai/ ], using semantic segmentation / object detection rather than markers) or a different robot. Extra functionality gives more points. Ask your teacher if you need help (e.g., setting up a specific Web UI for robot interaction);
 * You can use any Gazebo model / starting world file you find online to create your household world or design your own. Keep it bounded (e.g., with a wall) and small for simulation and demo (e.g., 40 sqm). To simplify things don't place doors between rooms;
+* Don't worry about simulation glitches (e.g., the simulated gripper doesn't hold a grasped object), I will grade your code (i.e., what it would be able to do) and not the simulator;
 * Some other references of (possibly) useful projects are: Nav2, rtabmap, yolov8_ros;
 
 
