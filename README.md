@@ -1,5 +1,5 @@
 # RAP_CHALLENGE_2025
-Graded RAP Assignment for FS2025 to be presented in presence (showing live simulation or video) during the last lecture of the course and to be turned in by the end of the last lab session.
+Graded RAP Assignment for FS2025 to be demoed in presence (showing live simulation or video) during the last lecture of the course and to be turned in by the end of the last lab session.
 
 ## Setting
 You are tasked with writing the software for a helpful mobile manipulator to be used in simple household tasks (e.g., finding, picking, and placing objects).
