@@ -47,12 +47,13 @@ Required deliverables (in a single git repository, one or more ROS packages at y
 * A .world file modeling your household environment to be used in Gazebo;
 * The launchfile(s) to start the simulation and the robot interaction;
 * Any other required source code to implement the requested functionality;
-* A README.md describing the repository, its installation and usage
+* A README.md describing the repository, its installation and usage;
+* The PDF / PPT + eventual videos of the final presentation
 
 During the final lecture you are expected to give a 15 min presentation and demo (part of the grading) including:
-* what goals you managed to complete
-* for each goal what were your main difficulties, which alternatives you tried, and how you finally decided to implement it
-* a live or recorded demo
+* What goals you managed to complete;
+* For each goal what were your main difficulties, which alternatives you tried, and how you finally decided to implement it;
+* A live or recorded demo
 
 ## Further hints
 
