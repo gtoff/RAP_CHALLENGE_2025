@@ -7,6 +7,12 @@ You are tasked with writing the software for a helpful mobile manipulator to be 
 You have to leverage the power of an LLM with function calling (i.e., "tools") to provide a simple human-robot interface (HRI) for non-technical users to control the robot.
 An initial simple example is provided here: https://github.zhaw.ch/RAP-EN/rosa_summit
 
+
+
+https://github.zhaw.ch/RAP-EN/RAP_CHALLENGE_2025/assets/676/c579bb87-e77c-4417-9204-05479d068052
+
+
+
 Inspirational examples of what can be achieved (and which "tools" are used) are for instance BUMBLE (https://robin-lab.cs.utexas.edu/BUMBLE/) or Tidybot (https://tidybot.cs.princeton.edu/)
 
 ## Goals
