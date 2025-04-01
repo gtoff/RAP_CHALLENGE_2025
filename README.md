@@ -59,3 +59,13 @@ During the final lecture you are expected to give a 15 min presentation and demo
 
 * ROS2 launchfiles can be complicated. We suggest you copy into your package the launchfiles you have used during the labs for doing similar things.
 
+## Troubleshooting
+
+Latest Pydantic version has some compatibility issues with langchain. Force installation of an older version if needed:
+
+    pip3 uninstall pydantic --break-system-packages
+    pip3 install --user pydantic==2.10.1 --break-system-packages
+
+
+  
+
