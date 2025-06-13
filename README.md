@@ -5,15 +5,9 @@ Graded RAP Assignment for FS2025 to be demoed in presence (showing live simulati
 You are tasked with writing the software for a helpful mobile manipulator to be used in simple household tasks (e.g., finding, picking, and placing objects).
 
 You have to leverage the power of an LLM with function calling (i.e., "tools") to provide a simple human-robot interface (HRI) for non-technical users to control the robot.
-An initial simple example is provided here: https://github.com/gtoff/RAP-EN/rosa_summit
-
-
+An initial simple example is provided here: https://github.com/gtoff/rosa_summit
 
 https://github.com/user-attachments/assets/30af7d92-317f-4dc2-953d-0dafade265e1
-
-
-
-
 
 Inspirational examples of what can be achieved (and which "tools" are used) are for instance BUMBLE (https://robin-lab.cs.utexas.edu/BUMBLE/) or Tidybot (https://tidybot.cs.princeton.edu/)
 
